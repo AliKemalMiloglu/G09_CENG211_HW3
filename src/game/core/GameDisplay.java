@@ -119,7 +119,7 @@ public class GameDisplay {
      * @param penguin The penguin taking the turn
      */
     public void displayTurnHeader(int turn, Penguin penguin) {
-        System.out.println("*** Turn " + turn + " – " + penguin.getName() +
+        System.out.println("*** Turn " + turn + " - " + penguin.getName() +
                 (penguin.isPlayerControlled() ? " (Your Penguin):" : ":"));
     }
 
