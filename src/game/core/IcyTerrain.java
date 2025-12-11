@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import game.entities.food.Food;
 import game.entities.hazard.Hazard;
 import game.entities.hazard.HeavyIceBlock;
-import game.entities.hazard.HoleInIce;
 import game.entities.hazard.LightIceBlock;
 import game.entities.hazard.SeaLion;
 import game.entities.penguin.EmperorPenguin;
